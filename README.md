@@ -1,4 +1,7 @@
 # puppeteer-video-recorder
+
+**This is a patched version to record frame duration as well, and uses a patched version of puppeteer-mass-screenshots**
+
 [Prerequisites](#Prerequisites "Prerequisites") | [Installation](#Installation "Installation") | [Manual](#Manual "Manual") | [InitOptions](InitOptions.md "InitOptions") | [StartOptions](StartOptions.md "StartOptions") | [FAQ](#FAQ "FAQ")
 
 <p>
