@@ -48,7 +48,7 @@
     "fs": "0.0.1-security",
     "path": "^0.12.7",
     "puppeteer": "^5.5.0",
-    "puppeteer-mass-screenshots": "^1.0.14"
+    "puppeteer-mass-screenshots": "github:antmicro/puppeteer-mass-screenshots"
   },
   "directories": {
     "test": "tests"
